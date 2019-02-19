@@ -1,3 +1,11 @@
+Masukkan latihan1
+![pyth](https://user-images.githubusercontent.com/46735903/53005831-9e615c00-3466-11e9-8edd-fcb0599cc78c.jpeg)
+Setelah di run
+![pthhh](https://user-images.githubusercontent.com/46735903/53005911-c81a8300-3466-11e9-8fea-5b134da77dc4.jpeg)
+Lalu masukkan juga latihan2
+![zzzzz](https://user-images.githubusercontent.com/46735903/53006142-3fe8ad80-3467-11e9-8ac9-e833000e8356.jpeg)
+Setelah memasukkan data lalu run file tersebut, dan hasilnya akan seperti ini
+![phyton2](https://user-images.githubusercontent.com/46735903/53006273-7a524a80-3467-11e9-816d-c57ff5a862cc.jpeg)
 Buat repository baru dengan format labpy03
 ![pythn3](https://user-images.githubusercontent.com/46735903/52929155-ca50e480-3375-11e9-9375-1e13b6af0716.png)
 Membuat program sederhana, seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan modal awal 100 juta dan menghitung total keuntungan usahanya selama 8 bulan.
